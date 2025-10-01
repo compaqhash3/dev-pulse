@@ -12,7 +12,7 @@ Here’s what caused it:
 ✔️ Always clean up or reuse the same modal instance.
 ✔️ If you re-open modals after async postbacks, reattach them safely:
 
-$('hashtag#myModal').on('hidden.bs.modal', function () {
+$('#myModal').on('hidden.bs.modal', function () {
  $(this).removeAttr('data-keep-open');
  $('.modal-backdrop').remove(); // cleanup
 });
