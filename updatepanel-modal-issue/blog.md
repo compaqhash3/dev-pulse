@@ -11,9 +11,9 @@ I hit this exact wall recently. After experimenting, here’s the recipe that wo
 ✅ Trigger modal manually after async postbacks:
 
 ScriptManager.RegisterStartupScript(
- this, this.GetType(),
- "ShowModal",
- "$('hashtag#myModal').modal('show');", true); 
+this, this.GetType(),
+"ShowModal",
+"$('#myModal').modal('show');", true); 
 
 ✅ Rebind behaviors inside UpdatePanels using PageRequestManager endRequest.
 
