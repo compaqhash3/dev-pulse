@@ -11,4 +11,4 @@ A platform for showcasing my software development projects, contributions, and e
    🔗 Blog: [Hashnode](https://dev-pulse-1.hashnode.dev/when-modals-attack-fixing-backdrop-and-event-issues-in-aspnet-webforms)
 
 2. [UpdatePanel & Modal Popup Issues](./updatepanel-modal-issue)  
-   🔗 Blog: Coming soon
+   🔗 Blog: [Hashnode](https://dev-pulse-1.hashnode.dev/taming-updatepanels-modal-popups-in-aspnet-webforms)
